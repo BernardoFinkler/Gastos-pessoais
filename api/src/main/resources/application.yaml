@@ -22,6 +22,6 @@ server:
   port: 8080
 
 jwt:
-  secret: sua-chave-secreta-aqui-minimo-256-bits
-  expiration-access: 900000       # 15 minutos em ms
-  expiration-refresh: 604800000   # 7 dias em ms
+  secret: 3f5b8e2a1d9c4f7e0a6b3d8c2e5f1a4b7d0e3f6a9c2b5e8d1f4a7c0e3b6d9f2
+  expiration-access: 900000
+  expiration-refresh: 604800000
